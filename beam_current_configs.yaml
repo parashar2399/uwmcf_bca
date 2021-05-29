@@ -1,0 +1,40 @@
+display:
+  #(button_name, register)
+  group1: 
+    - [U,0] 
+    - [D,4]
+    - [L,8]
+    - [R,12]
+  group2:
+    - [U,0] 
+    - [D,4]
+    - [L,8]
+    - [R,12]
+  group3:
+    - [U,0] 
+    - [D,4]
+    - [L,8]
+    - [R,12]
+  group4:
+    - [Ent, 0]
+    - [Exit, 0]
+  group5:
+    - [U,0] 
+    - [D,4]
+    - [L,8]
+    - [R,12]
+  group6:
+    - [U,0] 
+    - [D,4]
+    - [L,8]
+    - [R,12]
+  group7:
+    - [U,0] 
+    - [D,4]
+    - [L,8]
+    - [R,12]
+  group8:
+    - [U,0] 
+    - [D,4]
+    - [L,8]
+    - [R,12]
